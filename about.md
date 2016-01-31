@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a 27 years old PhD Student who compete in Skeet on my spare time, I also like to program and develop apps.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[appskeet25@gmail.com](mailto:appskeet25@gmail.com)
