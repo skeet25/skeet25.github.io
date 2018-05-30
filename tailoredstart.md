@@ -6,7 +6,7 @@ permalink: /TailoredDictionary/
 
 [Privacy Policy](/PrivacyPolicy/)
 
-This is my new project and the goal is to simplify for you to improve your vocabulary in a foreign language. The idea is quite simple. Translating a word or a phrase with *TailoredDictionary* a flashcard is created simultaneously. If you are reading a book for example, you can translate words you do not understand and you will see a list of translation for that session. Simultaneously the words are saved and you can practice on them afterwards. 
+This is my new project and the goal is to simplify for you to improve your vocabulary in a foreign language. The idea is quite simple. Translating a word or a phrase with *TailoredDictionary* a flashcard is created simultaneously. If you are reading a book for example, you can translate words you do not understand and you will see a list of translation for that session. Simultaneously the words are saved and you can practise on them afterwards. 
 
 ![Start Meny]({{ site.url }}/images/TailoredDictionary/startmenu.png)
 ![Translating Words]({{ site.url }}/images/TailoredDictionary/translating.png)
