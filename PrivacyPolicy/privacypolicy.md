@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Privacy Policy - Tailored Dictionary
+title: Privacy Policy
 permalink: /PrivacyPolicy/
 ---
-#TailoredDictionary
+
+# TailoredDictionary
 
 - TailoredDictionary requires the user to login using a Google Account. All words added by the user are stored on a database provided by FireBase. To match each user to the correct data a random ID is generated that does not reveal information about the user's identity.
 
@@ -15,7 +16,7 @@ permalink: /PrivacyPolicy/
 
 - All potential transactions are handled by Google.
 
-#Skeet25Pro
+# Skeet25Pro
 
 - Skeet25Pro saves the data on a database provided by Google Firebase.
 
