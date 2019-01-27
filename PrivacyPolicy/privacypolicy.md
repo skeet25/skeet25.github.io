@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy - Tailored Dictionary
+title: Privacy Policy - Tailored Dictionary / WordScanner
 permalink: /PrivacyPolicy/
 ---
 
