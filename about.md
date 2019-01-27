@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a 27 years old PhD Student who compete in Skeet on my spare time, I also like to program and develop apps.
+I am a 29 years old PhD Student who compete in Skeet on my spare time, I also like to program and develop apps.
 
 
 ### Contact me
