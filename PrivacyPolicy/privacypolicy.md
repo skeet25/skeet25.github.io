@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy - Tailored Dictionary / WordScanner
+title: Privacy Policy
 permalink: /PrivacyPolicy/
 ---
 # Gymnostarko 
