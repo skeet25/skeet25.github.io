@@ -3,6 +3,8 @@ layout: page
 title: Privacy Policy - Tailored Dictionary / WordScanner
 permalink: /PrivacyPolicy/
 ---
+# Gymnostarko 
+- This arcade game does not use any private information whatsoever.
 
 # TailoredDictionary
 
