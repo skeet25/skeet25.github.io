@@ -6,7 +6,7 @@ permalink: /PrivacyPolicy/
 # Gymnostarko 
 - This arcade game does not use any private information whatsoever.
 
-# TailoredDictionary
+# TailoredDictionary / WordScanner
 
 - TailoredDictionary requires the user to login using a Google Account. All words added by the user are stored on a database provided by FireBase. To match each user to the correct data a random ID is generated that does not reveal information about the user's identity.
 
