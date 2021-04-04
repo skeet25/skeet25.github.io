@@ -24,6 +24,6 @@ permalink: /PrivacyPolicy/
 
 - For authentication the email adress is needed and saved safely as well.
 
-- No data will be handed over to third part.
+- For ads see [here:](https://appodeal.com/privacy-policy/)
 
 - All purchases are handled by Google.
