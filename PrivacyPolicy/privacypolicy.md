@@ -3,6 +3,16 @@ layout: page
 title: Privacy Policy
 permalink: /PrivacyPolicy/
 ---
+# Skeet25Pro
+
+- Skeet25Pro saves the data on a database provided by Google Firebase.
+
+- For authentication the email adress is needed and saved safely as well.
+
+- For ads see [here!](https://appodeal.com/privacy-policy/)
+
+- All purchases are handled by Google.
+
 # Gymnostarko 
 - This arcade game does not use any private information whatsoever.
 
@@ -18,12 +28,3 @@ permalink: /PrivacyPolicy/
 
 - All potential transactions are handled by Google.
 
-# Skeet25Pro
-
-- Skeet25Pro saves the data on a database provided by Google Firebase.
-
-- For authentication the email adress is needed and saved safely as well.
-
-- For ads see [here!](https://appodeal.com/privacy-policy/)
-
-- All purchases are handled by Google.
