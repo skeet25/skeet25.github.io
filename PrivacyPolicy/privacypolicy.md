@@ -13,6 +13,9 @@ permalink: /PrivacyPolicy/
 
 - All purchases are handled by Google.
 
+# AIGolfSwing 
+- This app does not use any private data.
+
 # Gymnostarko 
 - This arcade game does not use any private information whatsoever.
 
