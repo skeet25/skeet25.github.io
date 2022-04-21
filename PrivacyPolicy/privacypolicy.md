@@ -7,11 +7,7 @@ permalink: /PrivacyPolicy/
 
 - Skeet25Pro saves the data on a database provided by Google Firebase.
 
-- For authentication the email adress is needed and saved safely as well.
-
-- For ads see [here!](https://appodeal.com/privacy-policy/)
-
-- All purchases are handled by Google.
+- For authentication the email adress is needed. [Google Privacy](https://policies.google.com/privacy?gl=SE&hl=en). On iPhone it is possible to use an anonymous e-mail.
 
 # AIGolfSwing 
 - This app does not use any private data.
