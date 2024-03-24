@@ -4,6 +4,9 @@ title: Privacy Policy
 permalink: /PrivacyPolicy/
 ---
 # Skeet25Pro
+- To delete data and account:
+    - Use the delete function from the main menu and then uninstall the app.
+    - Or email appskeet25@gmail.com.
 
 - Skeet25Pro saves the data on a database provided by Google Firebase.
 
